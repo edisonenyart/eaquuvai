@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vooxaewoo.ubig.me/sitemap.xml
